@@ -6,3 +6,5 @@
 輸入程式碼 要求虛擬機使用Python 3
 重啟Codespaces
 vscode 改語言 CTRL+SHIFT+P 選 CONFIGURE DISPLAY LANGUAGE
+
+![Alt text](image-1.png)
