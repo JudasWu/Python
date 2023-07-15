@@ -8,3 +8,6 @@
 vscode 改語言 CTRL+SHIFT+P 選 CONFIGURE DISPLAY LANGUAGE
 
 ![Alt text](image-1.png)
+
+list csv關聯
+![Alt text](image.png)
