@@ -11,3 +11,6 @@ vscode 改語言 CTRL+SHIFT+P 選 CONFIGURE DISPLAY LANGUAGE
 
 list csv關聯
 ![Alt text](image.png)
+
+matplotlib
+![Alt text](image-1.png)
