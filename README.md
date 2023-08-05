@@ -31,3 +31,6 @@ https://matplotlib.org/stable/api/index.html
 
 pandas series : 
 https://pandas.pydata.org/docs/reference/api/pandas.Series.html
+
+pandas.DataFrame.columns
+https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.columns.html
