@@ -14,3 +14,7 @@ list csv關聯
 
 matplotlib
 ![Alt text](image-1.png)
+
+MODBUS
+https://brightersidetech.com/modbus-tcp-master-client-implementation-in-python/
+https://blog.csdn.net/qq_40423339/article/details/96284979
