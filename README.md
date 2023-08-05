@@ -25,5 +25,9 @@ https://docs.python.org/zh-cn/3/library/index.html
 
 numpy : 
 https://numpy.org/doc/stable/reference/index.html#reference
+
+matplotlib:
+https://matplotlib.org/stable/api/index.html
+
 pandas series : 
 https://pandas.pydata.org/docs/reference/api/pandas.Series.html
